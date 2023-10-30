@@ -3,6 +3,7 @@
 We are a community driven by the pursuit of knowledge and technological innovation. Our projects span a range of domains, reflecting our commitment to learning and positive impact.
 
 ## Our Projects
+- [Agent Frameworks](https://github.com/Globe-Knowledge-Solutions/agents)
 - [ChatGPT Helper Functions (with caching)](https://github.com/Globe-Knowledge-Solutions/chatgpt)
 - [Handkerchief (RAG replacement)](https://github.com/Globe-Knowledge-Solutions/handkerchief)
 ... and many more in our [repositories](https://github.com/Globe-Knowledge-Solutions)!
