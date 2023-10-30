@@ -1,6 +1,6 @@
 ## Globe.Engineer 
 
-We are a community driven by the pursuit of knowledge and technological innovation. Our projects span a range of domains, reflecting our commitment to learning and positive impact.
+We are fixing engineering, using LLM Engineering Agents. And helping the LLM Agent community along the way.
 
 ## Our Projects
 - [Agent Frameworks](https://github.com/Globe-Knowledge-Solutions/agents)
