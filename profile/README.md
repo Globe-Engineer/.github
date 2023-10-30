@@ -11,7 +11,7 @@ We are a community driven by the pursuit of knowledge and technological innovati
 ## Learn More
 Visit our [website](https://globe.engineer/) to learn more about our mission, team, and ongoing projects.
 
-Connect with us on [Twitter](https://twitter.com/your_handle), [LinkedIn](https://linkedin.com/your_company), or drop us an email at info@globe.engineer.
+Connect with us on [Twitter](https://twitter.com/globe_engineer)
 
 ## License
 Our projects are open-source under the [MIT License](LICENSE.md).
