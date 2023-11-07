@@ -3,10 +3,11 @@
 We are fixing engineering, using LLM Engineering Agents. And helping the LLM Agent community along the way.
 
 ## Our Projects
-- [Agent Frameworks](https://github.com/Globe-Knowledge-Solutions/agents)
-- [ChatGPT Helper Functions (with caching)](https://github.com/Globe-Knowledge-Solutions/chatgpt)
-- [Handkerchief (RAG replacement)](https://github.com/Globe-Knowledge-Solutions/handkerchief)
-... and many more in our [repositories](https://github.com/Globe-Knowledge-Solutions)!
+- [Natbot with GPT4V] (https://github.com/Globe-Engineer/globot))
+- [Agent Frameworks](https://github.com/Globe-Engineer/agents)
+- [ChatGPT Helper Functions (with caching)](https://github.com/Globe-Engineer/chatgpt)
+- [Handkerchief (RAG replacement)](https://github.com/Globe-Engineer/handkerchief)
+... and many more in our [repositories](https://github.com/Globe-Engineer)!
 
 ## Learn More
 Visit our [website](https://globe.engineer/) to learn more about our mission, team, and ongoing projects.
