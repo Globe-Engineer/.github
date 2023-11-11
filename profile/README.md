@@ -5,7 +5,7 @@ We are fixing engineering, using LLM Engineering Agents. And helping the LLM Age
 ## Our Projects
 - [Natbot with GPT4V](https://github.com/Globe-Engineer/globot)
 - [Agent Frameworks](https://github.com/Globe-Engineer/agents)
-- [ChatGPT Helper Functions (with caching)](https://github.com/Globe-Engineer/chatgpt)
+- [ChatGPT Helper Functions (with caching)](https://github.com/Globe-Engineer/chatgpt-wrapper)
 - [Handkerchief (RAG replacement)](https://github.com/Globe-Engineer/handkerchief)
 ... and many more in our [repositories](https://github.com/Globe-Engineer)!
 
